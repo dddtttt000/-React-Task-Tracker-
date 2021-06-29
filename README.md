@@ -1,7 +1,3 @@
-# React clone coding 첫번째!
+## React clone coding 첫번째! ✨
+ - Task Tracker 만들기
 
-
-
-## Available Scripts
-
-In the project directory, you can run
